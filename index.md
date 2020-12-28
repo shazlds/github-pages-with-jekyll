@@ -1,3 +1,7 @@
 # Welcome to my blog
 
-I'm glad you are here. I plan to talk about ...
+# Shazld Poetry and Inspiration
+
+Doubts are a nasty beast
+Inside your brain
+            They like to feast
