@@ -1,6 +1,6 @@
 ---
 title: "I am a dreamer"
-date: "2020-12-28"
+date: 2020-12-28
 ---
 
 I am a dreamer
